@@ -1,0 +1,3 @@
+Created an intuitive coffee sales dashboard in Excel to effectively track and analyze sales data. Visualize key metrics such as revenue, 
+quantity sold, and trends over time through interactive charts and graphs. Streamline decision-making processes by gaining valuable insights 
+into customer preferences, popular products, and sales performance, empowering your business to optimize strategies and drive growth.
